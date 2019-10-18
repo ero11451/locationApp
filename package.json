@@ -1,0 +1,16 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "my first transport app ",
+  "main": "index.js ",
+  "scripts": {
+    "watch":"nodemon",
+    "start":"index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maps"
+  ],
+  "author": "muyi",
+  "license": "ISC"
+}
